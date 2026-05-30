@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ## Run
 
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 ## CSV Format (optional)
